@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: fete.bird
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, data-mongodb, gradle, http-client, jackson-databind, java, java-application, junit, logback, micronaut-build, mongo-reactive, mongo-sync, netty-server, reactor, reactor-http-client, readme, shade, testcontainers, yaml]
